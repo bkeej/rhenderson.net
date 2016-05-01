@@ -1,0 +1,7 @@
+### (2012) THE PRAGMATICS OF QUANTIFIER SCOPE: A CORPUS STUDY ###
+
+Sinn und Bedeutung 16. With Scott AnderBois and Adrian Brasoveanu
+
+Most investigations of quantifier scope are concerned with the range of possible scopes for sentences with multiple quantifiers. Instead, this study examines the actual scopes, i.e., the pragmatics of quantifier scope disambiguation. The three main findings of our investigation are as follows. First, we confirmed the results in the previous literature that linear order and grammatical function have an effect on scope-taking preferences. Second, we discovered that lexical effects on scoping preferences are at least as important as linear order or grammatical function. Third, the relational aspect of these lexical effects, i.e., the lexical realizations of the other quantifiers in the sentence, is also important. The present investigation opens the way towards a broader research program of identifying scoping-behavior patterns that should ultimately enable us to group quantifiers into classes depending on the type of scopal behavior they exhibit. Identifying such classes could provide an empirical basis for semantic theories that assign different kinds of semantic representations to these classes and / or for psycholinguistic theories that hypothesize different processing strategies for different classes.
+
++ [paper](/resources/papers/quantcorpus.pdf)
