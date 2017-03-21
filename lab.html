@@ -1,24 +1,3 @@
-
-
-<%
-  import glob
-  import markdown
-  import codecs
-  papers = sorted(glob.glob("resources/papers/*.md"), reverse=True)
-
-  # input_file = codecs.open("resources/papers/smothers.md", mode="r", encoding="utf-8")
-
-  # text = input_file.read()
-  # html = markdown.markdown(text)
-
-  def papertext(paper):
-    f = codecs.open(paper, mode="r", encoding="utf-8")
-    text = f.read()
-    html = markdown.markdown(text)
-    f.close()
-    return html
-%>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -74,12 +53,6 @@
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </nav>
-
-<!--       % for i in papers:
-        <div class="container">
-        ${papertext(i)}
-        </div>
-      % endfor -->
 
     <div class="container">
         <%include file="resources/lab/LLaMa.html"/>
