@@ -1,4 +1,4 @@
-### (2013) AT-ISSUE PROPOSALS AND APPOSITIVE IMPOSITIONS IN DISCOURSE ###
+### (2013) At-issue proposals and appositive impositions in discourse ###
 
 Journal of Semantics. doi: [10.1093/jos/fft014](http://dx.doi.org/10.1093/jos/fft014). With Scott AnderBois and Adrian Brasoveanu.
 

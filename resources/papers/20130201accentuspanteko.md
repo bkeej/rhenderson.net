@@ -1,4 +1,4 @@
-### (2013) ACCENT IN USPANTEKO ###
+### (2013) Accent in Uspanteko ###
 
 Natural Language and Linguistic Theory. doi: [10.1007/s11049-013-9196-6](http://dx.doi.org/10.1007/s11049-013-9196-6). With Ryan Bennett
 

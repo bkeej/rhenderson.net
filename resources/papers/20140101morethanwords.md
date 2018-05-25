@@ -1,4 +1,4 @@
-### (2014) MORE THAN WORDS: TOWARDS A DEVELOPMENT-BASED APPROACH TO LANGUAGE REVITALIZATION ###
+### (2014) More than words: Towards a development-based approach to language revitalization ###
 
 Language Documentation & Conservation. vol 8, pp. 75-91. With Brent Henderson and Peter Rohloff.
 

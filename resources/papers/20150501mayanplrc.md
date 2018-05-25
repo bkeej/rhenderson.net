@@ -1,4 +1,4 @@
-### (2015) PLURACTIONALITY IN MAYAN ###
+### (2015) Pluractionality in Mayan ###
 
 Under review for an Routledge volume on the Mayan languages
 

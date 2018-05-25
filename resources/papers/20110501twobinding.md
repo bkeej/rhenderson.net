@@ -1,4 +1,4 @@
-### (2011) TWO BINDING PUZZLES IN MAYAN ###
+### (2011) Two binding puzzles in Mayan ###
 
 In "Representing Language: Essays in Honor of Judith Aissen". With Jessica Coon
 

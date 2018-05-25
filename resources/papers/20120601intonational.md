@@ -1,4 +1,4 @@
-### (2012) MORPHOLOGICAL ALTERNATIONS AT THE INTONATIONAL PHRASE EDGE ###
+### (2012) Morphological alternations at the intonational phrase edge ###
 
 Natural Language and Linguistic Theory. doi: [10.1007/s11049-012-9170-8](http://dx.doi.org/10.1007/s11049-012-9170-8)
 

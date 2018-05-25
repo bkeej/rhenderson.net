@@ -1,4 +1,4 @@
-### (2012) THE PRAGMATICS OF QUANTIFIER SCOPE: A CORPUS STUDY ###
+### (2012) The pragmatics of quantifier scope: A corpus study ###
 
 Sinn und Bedeutung 16. With Scott AnderBois and Adrian Brasoveanu
 

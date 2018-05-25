@@ -1,4 +1,4 @@
-### (2013) QUANTIZING SCALAR CHANGE ###
+### (2013) Quantizing scalar change ###
 
 Semantics and Linguistic Theory 23. doi: [10.3765/salt](http://dx.doi.org/10.3765/salt)
 
