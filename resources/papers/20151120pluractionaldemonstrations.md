@@ -1,4 +1,4 @@
-### (2015) PLURACTIONAL DEMONSTRATIONS ###
+### (2015) Pluractional Demonstrations ###
 
 Presented at SALT 26 and as an invited talk at LENLS 2015. Currently under review at Linguistics & Philosophy. 
 
