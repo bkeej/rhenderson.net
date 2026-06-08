@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Papers - {{ SITENAME }}{% endblock %}
+{% block content %}
+    <h1>Papers</h1>
+    {% for article in articles %}
+        <div class="paper-item" style="margin-bottom: 30px;">
+            <a href="{{ SITEURL }}/{{ article.url }}" style="font-size: 1.2em; font-weight: bold;">{{ article.title }}</a>
+            <p>{{ article.summary|striptags }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

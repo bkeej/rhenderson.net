@@ -1,0 +1,7 @@
+### (2023) Vowel deletion as grammatically controlled gestural overlap in Uspanteko ###
+
+Languagre. doi: (to appear). With Ryan Bennett and Meg Harvey
+
+Uspanteko is an endangered Mayan language spoken in Guatemala. Unstressed vowels in Uspanteko often delete, though deletion is variable within and across speakers. Deletion appears to be phonological: it is sensitive to foot structure, morphology, and certain phonotactics; and occurs in slow, careful speech. But deletion also has characteristics more typical of a phonetic process: it is intertwined with a pattern of gradient vowel reduction, and is insensitive to most phonotactics. Electroglottography data shows that even 'deleted' vowels may contribute voicing to [C(V)C] intervals when flanked by voiceless consonants. This suggests that 'deleted' vowels are represented in the input to speech production, even when they are acoustically masked by articulatory overlap with adjacent segments. We conclude that vowel deletion is grammatically controlled gestural overlap, consistent with the claim that phonological representations encode information about the relative timing and coordination of articulatory gestures (e.g. Browman & Goldstein 1986, Gafos 2002). At a minimum, language-specific phonetic processes must have access to more fine-grained, abstract grammatical information than is usually assumed.
+
++ [paper](./resources/papers/voweldel.pdf)
